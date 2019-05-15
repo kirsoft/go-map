@@ -16,4 +16,6 @@ extern "C" int mapWrite (int numRecords)
     	auto value = m[key];
     	if(key == value);
 	}
+
+	return 0;
 }
