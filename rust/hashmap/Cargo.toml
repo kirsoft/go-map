@@ -5,3 +5,5 @@ authors = ["Alexander Litvinov <sanderlimail@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+rustc-hash = "1.0.1"
+hashbrown = "0.3"
